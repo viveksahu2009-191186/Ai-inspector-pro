@@ -1,0 +1,5 @@
+{
+  "name": "AI Inspector Pro",
+  "description": "A comprehensive quality assurance platform for AI models to validate behavior, detect bias, and ensure safety/compliance through automated edge-case testing and real-world scenario simulation.",
+  "requestFramePermissions": []
+}
